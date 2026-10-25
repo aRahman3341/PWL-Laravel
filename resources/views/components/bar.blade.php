@@ -1,0 +1,1 @@
+<div class="w-12 h-1 bg-[#4A90D9] rounded mb-4"></div>
